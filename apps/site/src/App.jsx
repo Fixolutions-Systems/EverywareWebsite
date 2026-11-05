@@ -12,6 +12,7 @@ import BentoGrid from './components/BentoGrid';
 import StatsBand from './components/StatsBand';
 import TestimonialsGrid from './components/TestimonialsGrid';
 import FaqSection from './components/FaqSection';
+import ContactSection from './components/ContactSection';
 import DownloadCTA from './components/DownloadCTA';
 import EditorialFooter from './components/EditorialFooter';
 import ExperiencesPage from './components/ExperiencesPage';
@@ -83,6 +84,7 @@ export default function App() {
               <StatsBand />
               <TestimonialsGrid />
               <FaqSection />
+              <ContactSection />
             </>
           )}
 
